@@ -24,4 +24,4 @@ The `JTAG_FSM` project implements a JTAG (Joint Test Action Group) Finite State 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/destinyN1/JTAG_FSM.git
+   git clone https://github.com/destinyN1/JTAG-Finite-State-Machine.git
